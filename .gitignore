@@ -1,0 +1,19 @@
+# Next.js
+/.next/
+/out/
+
+# dependencies
+/node_modules
+
+# production
+/build
+
+# misc
+.DS_Store
+*.log
+
+# local env files
+.env
+.env*.local
+.env.*
+!.env.example
